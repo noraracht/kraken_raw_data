@@ -1,11 +1,10 @@
 # Access to the data used for Kraken benchmarking
 
 * Query summary reports used for sensitivity analysis are in:
-    *report\_kraken\_viral\_dist\_unmasked\_{confidence level}\_corrected\_{k-mer size}.tar.gz.
+    - report\_kraken\_viral\_dist\_unmasked\_{confidence level}\_corrected\_{k-mer size}.tar.gz
 
-* Query summary reports and distance matrices used for simulation experiment with non overlapping contaminants are in:'
-
-Drosophila_contam_non_overlap_exp.zip contains q.
+* Query summary reports and distance matrices used for simulation experiment with non overlapping contaminants are in:
+- Drosophila\_contam\_non\_overlap\_exp.zip
 
 * Query summary reports and distance matrices used for simulation experiment with overlapping contaminants are in:
 
