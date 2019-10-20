@@ -37,6 +37,6 @@
 
 
 * Custom Kraken reference library constructed from WoL reference phylogeny:
-    - [reference library k=35](https://drive.google.com/drive/folders/1pz2nwAk_WXXzmi-fMzr_zMszZvHQQcN5?usp=sharing)
+    - [reference library of contaminants k=35](https://drive.google.com/drive/folders/1pz2nwAk_WXXzmi-fMzr_zMszZvHQQcN5?usp=sharing)
     
 
