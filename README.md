@@ -4,15 +4,13 @@
     - report\_kraken\_viral\_dist\_unmasked\_{confidence level}\_corrected\_{k-mer size}.tar.gz
 
 * Query summary reports and distance matrices used for simulation experiment with non overlapping contaminants are in:
-- Drosophila\_contam\_non\_overlap\_exp.zip
+    - Drosophila_contam_non_overlap_exp.zip
 
 * Query summary reports and distance matrices used for simulation experiment with overlapping contaminants are in:
-
-Dros_contam_overlap_k35_conf0.0.zip	contains 
+    - Dros_contam_overlap_k35_conf0.0.zip
 
 * Query summary reports and distance matrices obtained as a result of analysis of real Drosophila skims are in:
-
-14_Dros_skmer_kraken_reports.zip contains 
+    - 14_Dros_skmer_kraken_reports.zip
 
 Standard Kraken reference library 
 
