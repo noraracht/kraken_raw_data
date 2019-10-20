@@ -1,6 +1,4 @@
-# kraken_raw_data
-
-#Access to the data used for Kraken benchmarking.
+# Access to the data used for Kraken benchmarking.
 
 Query output summary reports used for sensitivity analysis are stored in report\_kraken\_viral\_dist\_unmasked\_{confidence level}\_corrected\_{k-mer size}.tar.gz.
 
