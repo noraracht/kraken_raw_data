@@ -1,6 +1,10 @@
-# Access to the data used for Kraken benchmarking.
+# Access to the data used for Kraken benchmarking
 
-Query output summary reports used for sensitivity analysis are stored in report\_kraken\_viral\_dist\_unmasked\_{confidence level}\_corrected\_{k-mer size}.tar.gz.
+\begin{itemize}
+\Query output summary reports used for sensitivity analysis are stored in 
+\end{itemize}
+ 
+report\_kraken\_viral\_dist\_unmasked\_{confidence level}\_corrected\_{k-mer size}.tar.gz.
 
 Drosophila_contam_non_overlap_exp.zip contains query summary reports and distance matrices used for simulation experiment with non overlapping contaminants.
 
