@@ -21,5 +21,9 @@
 * Custom Kraken reference library (k=35):
     - [tree_of_life_viral_unmasked_k35_l31_s7](https://drive.google.com/drive/folders/1pz2nwAk_WXXzmi-fMzr_zMszZvHQQcN5?usp=sharing)
     
-    * Custom Kraken reference library (k=35):
-    - [tree_of_life_viral_unmasked_k35_l31_s7](https://drive.google.com/drive/folders/1pz2nwAk_WXXzmi-fMzr_zMszZvHQQcN5?usp=sharing)
+* Genome skims used for simulation experiment with non overlapping contaminants:
+    - [bin 00-00](https://drive.google.com/file/d/1SBa9yRFuZqo1EdneLwl4E4N2Dju8d8jT/view?usp=sharing)
+    - [bin 00-05](https://drive.google.com/file/d/1KSVb4cUniOavCVKEsiekOkBfDZqrfIuW/view?usp=sharing)
+    - [bin 05-15](https://drive.google.com/file/d/1F2xo9C1KK7dNxlBvpgDOYPtN7wYnO8ih/view?usp=sharing)
+    - [bin 15-25](https://drive.google.com/file/d/1gEsUUhXMZmwibN4JFod2YArOVDisrJzH/view?usp=sharing)
+    
