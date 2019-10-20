@@ -36,7 +36,7 @@
     - [kraken_db_standard_k35l31s7](https://drive.google.com/drive/folders/1vDfSY2o9-zXPY5a0E64oWjqRaqPyCrsL?usp=sharing)
 
 
-* Custom Kraken reference library constructed from WoL reference phylogeny (k=35):
-    - [tree_of_life_viral_unmasked_k35_l31_s7](https://drive.google.com/drive/folders/1pz2nwAk_WXXzmi-fMzr_zMszZvHQQcN5?usp=sharing)
+* Custom Kraken reference library constructed from WoL reference phylogeny:
+    - [reference library k=35](https://drive.google.com/drive/folders/1pz2nwAk_WXXzmi-fMzr_zMszZvHQQcN5?usp=sharing)
     
 
