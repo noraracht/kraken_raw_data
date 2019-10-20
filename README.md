@@ -1,6 +1,6 @@
 # kraken_raw_data
 
-Access to the data used for Kraken benchmarking.
+#Access to the data used for Kraken benchmarking.
 
 Query output summary reports used for sensitivity analysis are stored in report\_kraken\_viral\_dist\_unmasked\_{confidence level}\_corrected\_{k-mer size}.tar.gz.
 
@@ -11,4 +11,6 @@ Dros_contam_overlap_k35_conf0.0.zip	contains query summary reports and distance 
 14_Dros_skmer_kraken_reports.zip contains query summary reports and distance matrices obtained as a result of analysis of real Drosophila skims.
 
 
+Standard Kraken reference library 
 
+Custom Kraken reference library (k=35) 
