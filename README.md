@@ -1,9 +1,8 @@
 # Access to the data used for Kraken benchmarking
 
 * Query summary reports used for sensitivity analysis are in:
-    - <div class="text-blue mb-2">
-      .report\_kraken\_viral\_dist\_unmasked\_{confidence level}\_corrected\_{k-mer size}.tar.gz
-      </div>
+    - <span style="color:blue">some *This is Blue italic.* text</span>
+      report\_kraken\_viral\_dist\_unmasked\_{confidence level}\_corrected\_{k-mer size}.tar.gz
     
 
 * Query summary reports and distance matrices used for simulation experiment with non overlapping contaminants are in:
