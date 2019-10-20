@@ -7,7 +7,8 @@
     
 
 * Query summary reports and distance matrices used for simulation experiment with non overlapping contaminants are in:
-    - Drosophila_contam_non_overlap_exp.zip
+    - [BDrosophila_contam_non_overlap_exp.zip](https://github.com/noraracht/kraken_raw_data/blob/master/Drosophila_contam_non_overlap_exp.zip)
+    
 
 * Query summary reports and distance matrices used for simulation experiment with overlapping contaminants are in:
     - Dros_contam_overlap_k35_conf0.0.zip
