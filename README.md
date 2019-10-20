@@ -19,4 +19,4 @@
     - [kraken_db_standard_k35l31s7](https://drive.google.com/drive/folders/1vDfSY2o9-zXPY5a0E64oWjqRaqPyCrsL?usp=sharing)
 
 * Custom Kraken reference library (k=35):
-    - [14_Dros_skmer_kraken_reports.zip](https://github.com/noraracht/kraken_raw_data/blob/master/14_Dros_skmer_kraken_reports.zip)
+    - [tree_of_life_viral_unmasked_k35_l31_s7](https://drive.google.com/drive/folders/1pz2nwAk_WXXzmi-fMzr_zMszZvHQQcN5?usp=sharing)
