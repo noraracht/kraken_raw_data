@@ -2,7 +2,7 @@
 
 * Query summary reports used for sensitivity analysis are in:
     - <div class="text-blue mb-2">
-      report_kraken_viral_dist_unmasked\_{confidence level}\_corrected\_{k-mer size}.tar.gz
+      .report\_kraken\_viral\_dist\_unmasked\_{confidence level}\_corrected\_{k-mer size}.tar.gz
       </div>
     
 
