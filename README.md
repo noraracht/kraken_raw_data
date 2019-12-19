@@ -42,3 +42,11 @@ This repository contains raw data and output reports we used for the study.
     - [reference library of contaminants k=35](https://drive.google.com/drive/folders/1pz2nwAk_WXXzmi-fMzr_zMszZvHQQcN5?usp=sharing)
     
 
+* Inferred phylogenetic trees:
+    - [assembly.nwk](https://github.com/noraracht/kraken_raw_data/blob/master/assembly.nwk) Gold standard tree constructed using the Open Tree of Life topology and inferred branch lenghts.
+
+    - [with_kraken.nwk](https://github.com/noraracht/kraken_raw_data/blob/master/with_kraken.nwk) The phylogeny after filtering genome skims (size 100MB).
+
+    - [wo_kraken.nwk](https://github.com/noraracht/kraken_raw_data/blob/master/wo_kraken.nwk) The phylogeny before filtering genome skims (size 100MB).
+
+
